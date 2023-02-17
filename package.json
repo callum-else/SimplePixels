@@ -1,0 +1,14 @@
+{
+  "name": "com.geppy.simplepixels",
+  "version": "0.0.1",
+  "displayName": "SimplePixels",
+  "description": "SimplePixels is a simplified and packaged version of the Pixelation Image Effect created by Dmitry Timofeev.",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://github.com/callum-else/SimplePixles#readme",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/callum-else/SimplePixles/blob/main/LICENSE",
+  "author": {
+    "name": "Callum Else"
+  }
+}
