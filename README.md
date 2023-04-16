@@ -1,4 +1,4 @@
-# SimplePixles
+# SimplePixels
 SimplePixels is a simplified and packaged version of the Pixelation Image Effect created by Dmitry Timofeev. The original asset can be found on the Unity Asset Store [here](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/pixelation-65554).
 
 I've been using and loving this asset for a long time, but the original file structure and namespace usage leaves a lot to be desired. That, along with the fact that it doesn't import as a package separate from your assets, led me to create this.
